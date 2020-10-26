@@ -1,2 +1,2 @@
 # Atvd_Dispositivos_Moveis
-"lucasmoura": "babel ./src/LucasMoura/index.js -o ./bundle.js -w"
+Essa atividade servirá de frequência para a aula do dia 15/09.
